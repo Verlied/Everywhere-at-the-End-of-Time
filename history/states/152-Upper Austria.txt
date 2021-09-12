@@ -34,7 +34,7 @@ state={
 		#}
 		add_core_of = AUS
 
-		1938.3.12 = {
+		2020.3.12 = {
 			owner = GER
 			controller = GER
 			add_core_of = GER
