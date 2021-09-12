@@ -2,8 +2,8 @@
 state={
 	id=5
 	name="STATE_5"
-	manpower = 1238108
-	state_category = town
+	manpower=1238108
+	state_category=town
 
 	history={
 		victory_points = {
@@ -12,13 +12,12 @@ state={
 		#victory_points = {
 		#	11386 1
 		#}
-		owner = GER
-		controller = GER
+		owner=WGR
 		
 		buildings = {
-			infrastructure = 6
+			infrastructure=6
 		}
-		add_core_of = GER
+		add_core_of = WGR
 	}
 
 	provinces={

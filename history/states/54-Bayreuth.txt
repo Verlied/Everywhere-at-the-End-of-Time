@@ -2,20 +2,20 @@
 state={
 	id=54
 	name="STATE_54"
-	manpower = 2508159
+	manpower=2508159
 
-	state_category = city
+	state_category=city
 
 	history={
-		owner = GER
+		owner=WGR
 		buildings = {
-			infrastructure = 7
-			industrial_complex = 2
+			infrastructure=7
+			industrial_complex=2
 		}
 		victory_points = {
 			11544 10 
 		}
-		add_core_of = GER
+		add_core_of = WGR
 
 		1939.1.1 = {
 			buildings = {
