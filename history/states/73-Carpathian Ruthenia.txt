@@ -15,9 +15,8 @@ state={
 		}
 		add_core_of = SOV
 		add_core_of = UKR
-		add_claim_by = HUN
 
-		1939.3.14 = {
+		2020.3.14 = {
 			owner = HUN
 			controller = HUN
 			remove_claim_by = HUN
