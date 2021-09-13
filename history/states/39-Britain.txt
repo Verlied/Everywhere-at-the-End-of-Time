@@ -14,13 +14,12 @@ state={
 		victory_points = {
 			11598 1
 		}
-		owner = ITA
+		owner = PRI
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 		}
-		add_core_of = ITA
-		add_core_of = AUS
+		add_core_of = PRI
 	}
 
 	provinces={

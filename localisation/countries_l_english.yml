@@ -8,6 +8,14 @@
  SIC_DEF:0 "Sicily"
  SIC_ADJ:0 "Sicilian"
 
+ #People's Republic of Italy
+ PRI_communism:0 "People's Republic of Italy"
+ PRI_communism_DEF:0 "the People's Republic of Italy"
+ PRI_communism_ADJ:0 "Italy"
+ PRI:0 "Italy"
+ PRI_DEF:0 "Italy"
+ PRI_ADJ:0 "Italian"
+
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"
  GER_democratic:0 "German Republic"

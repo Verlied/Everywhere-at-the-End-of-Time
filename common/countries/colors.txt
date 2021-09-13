@@ -1,5 +1,9 @@
 #reload countrycolors
 
+PRI = {
+	color = rgb { 127  0  0 }
+	color_ui = rgb { 127  0  0 }
+}
 SIC = {
 	color = rgb { 255 208 0 }
 	color_ui = rgb { 255 208 0 }
