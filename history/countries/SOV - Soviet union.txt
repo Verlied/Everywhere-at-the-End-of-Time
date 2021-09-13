@@ -9,6 +9,8 @@ if = {
 	}
 }
 
+load_focus_tree = SOV_start
+
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.8
@@ -269,10 +271,14 @@ set_popularities = {
 	communism = 88
 }
 
-create_faction = Comintern
+create_faction = Warsaw Pact
 add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
+add_to_faction = POL
+add_to_faction = DDR
+add_to_faction = BUL
+add_to_faction = ROM
+add_to_faction = HUN
+add_to_faction = CZE
 
 
 add_ideas = {
@@ -281,9 +287,9 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Joseph Stalin"
-	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	name = "Gregory Malenkov"
+	desc = "POLITICS_GREGORY_MALENKOV_DESC"
+	picture = "gfx/leaders/SOV/Portrait_SOV_Malenkov.png"
 	expire = "1953.3.1"
 	ideology = stalinism
 	traits = {

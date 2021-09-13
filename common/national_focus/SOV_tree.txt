@@ -1,0 +1,12 @@
+﻿focus_tree = {
+	id = SOV_start
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SOV
+		}
+	}
+	default = no
+	shared_focus = SOV_wide_is_my_motherland
+}
