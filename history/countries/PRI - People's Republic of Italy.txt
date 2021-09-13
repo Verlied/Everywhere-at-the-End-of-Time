@@ -67,11 +67,11 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Giuseppe D'Angelo"
-	desc = "POLITICS_GIUSEPPE_ANGELO_DESC"
-	picture = "gfx/leaders/SIC/Portrait_SIC_Giuseppe_Angelo.png"
+	name = "Palmiro Togliatti"
+	desc = "POLITICS_PALMIRO_TOGLIATTI_DESC"
+	picture = "gfx/leaders/PRI/Portrait_PRI_Palmiro_Togliatti.png"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = marxism
 	traits = {
 		#
 	}
