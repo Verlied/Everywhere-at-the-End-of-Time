@@ -1,5 +1,48 @@
 #reload countrycolors
-
+SKS = {
+	color = rgb { 191  193  60 }
+	color_ui = rgb { 191  193  60 }
+}
+SMB = {
+	color = rgb { 204  59  59 }
+	color_ui = rgb { 204  59  59 }
+}
+SCF = {
+	color = rgb { 204  170  0 }
+	color_ui = rgb { 204  170  0 }
+}
+PRC = {
+	color = rgb { 100  0  0 }
+	color_ui = rgb { 100  0  0 }
+}
+KWL = {
+	color = rgb { 114  0  0 }
+	color_ui = rgb { 114  0  0 }
+}
+KAT = {
+	color = rgb { 50  135  52 }
+	color_ui = rgb { 50  135  52 }
+}
+GUR = {
+	color = rgb { 30  30  30 }
+	color_ui = rgb { 30  30  30 }
+}
+FRC = {
+	color = rgb { 173  71  53 }
+	color_ui = rgb { 173  71  53 }
+}
+FPB = {
+	color = rgb { 204  170  0 }
+	color_ui = rgb { 204  170  0 }
+}
+DRC = {
+	color = rgb { 72  77  173 }
+	color_ui = rgb { 72  77  173 }
+}
+RGC = {
+	color = rgb { 103  123  137 }
+	color_ui = rgb { 103  123  137 }
+}
 PRI = {
 	color = rgb { 127  0  0 }
 	color_ui = rgb { 127  0  0 }
