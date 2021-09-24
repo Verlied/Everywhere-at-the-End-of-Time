@@ -1,4 +1,12 @@
 ﻿l_english:
+  #The Free City of Hamburg
+ HAB_democratic:0 "The Free City of Hamburg"
+ HAB_democratic_DEF:0 "The Free City of Hamburg"
+ HAB_democratic_ADJ:0 "Hamburg"
+ HAB:0 "Hamburg"
+ HAB_DEF:0 "Hamburg"
+ HAB_ADJ:0 "Hamburg"
+ 
  #State of Prussia
  SOP_communism:0 "State of Prussia"
  SOP_communism_DEF:0 "the State of Prussia"
