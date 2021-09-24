@@ -1,4 +1,11 @@
 ﻿l_english:
+ #State of Prussia
+ SOP_communism:0 "State of Prussia"
+ SOP_communism_DEF:0 "the State of Prussia"
+ SOP_communism_ADJ:0 "Prussian"
+ SOP:0 "Prussia"
+ SOP_DEF:0 "German"
+ SOP_ADJ:0 "Prussian"
 
  #Sicily
  SIC_democratic:0 "Republic of Sicily"
