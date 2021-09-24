@@ -6,7 +6,7 @@ state={
 	state_category=city
 
 	history={
-		owner=WGR
+		owner=HAN
 		victory_points = {
 			241 5 
 		}
@@ -28,7 +28,7 @@ state={
 			air_base=3
 
 		}
-		add_core_of = WGR
+		add_core_of = HAN
 		1939.1.1 = {
 			buildings = {
 				industrial_complex = 4
