@@ -1,4 +1,8 @@
 #reload countrycolors
+SOP = {
+	color = rgb { 92  92  92 }
+	color_ui = rgb { 92  92  92 }
+}
 SKS = {
 	color = rgb { 191  193  60 }
 	color_ui = rgb { 191  193  60 }
