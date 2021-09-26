@@ -11,7 +11,7 @@ state={
 	state_category=town
 
 	history={
-		owner=POL
+		owner=SOP
 		victory_points = {
 			6282 5
 		}
@@ -30,7 +30,7 @@ state={
 			}
 			air_base=3
 		}
-		add_core_of = POL
+		add_core_of = SOP
 	}
 
 	provinces={
