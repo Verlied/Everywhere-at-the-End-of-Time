@@ -7,7 +7,7 @@ state={
 	state_category=city
 
 	history={
-		owner=WGR
+		owner=BAY
 		buildings = {
 			infrastructure=7
 			industrial_complex=2
@@ -15,7 +15,7 @@ state={
 		victory_points = {
 			11544 10 
 		}
-		add_core_of = WGR
+		add_core_of = BAY
 
 		1939.1.1 = {
 			buildings = {
