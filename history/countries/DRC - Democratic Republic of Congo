@@ -54,25 +54,27 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	fascism = 60
+	democracy = 30
+	communism = 10
 }
 
 create_country_leader = {
 	
-	name = "François Tolenga"
+	name = "Joseph Kasa-Vubu"
 	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-	expire = "1965.1.1"
-	ideology = despotism
+	expire = "1969.1.1"
+	ideology = rexism
 	traits = {
-		compassionate_gentleman
+		
 	}
 }
 create_country_leader = {
 	
-	name = "Lumumba Lomendja"
+	name = "Antoine-Roger Bolamba"
 	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_1.dds"
 	expire = "1965.1.1"
-	ideology = marxism
+	ideology = anti-revisionism
 	traits = {
 		silent_workhorse
 	}
@@ -80,10 +82,10 @@ create_country_leader = {
 
 create_country_leader = {
 	
-	name = "David Manera"
+	name = "Joseph Iléo"
 	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_Land_3.dds"
 	expire = "1965.1.1"
-	ideology = fascism_ideology
+	ideology = conservatism
 	traits = {
 		
 	}
