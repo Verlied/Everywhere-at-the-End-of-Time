@@ -1,4 +1,8 @@
 #reload countrycolors
+HAB = {
+	color = rgb { 255 93 82 }
+	color_ui = rgb { 255 93 82 }
+}
 SOP = {
 	color = rgb { 92  92  92 }
 	color_ui = rgb { 92  92  92 }
