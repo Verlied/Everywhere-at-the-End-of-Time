@@ -1,4 +1,8 @@
 #reload countrycolors
+RHZ = {
+	color = rgb { 42 128 116 }
+	color_ui = rgb { 42 128 116 }
+}
 HAB = {
 	color = rgb { 255 93 82 }
 	color_ui = rgb { 255 93 82 }
