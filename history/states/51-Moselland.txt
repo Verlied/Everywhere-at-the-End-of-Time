@@ -11,7 +11,7 @@ state={
 	state_category=metropolis
 	
 	history={
-		owner=WGR
+		owner=RHZ
 		victory_points = {
 			6469 10 
 		}
@@ -31,7 +31,7 @@ state={
 			air_base=3
 
 		}
-		add_core_of = WGR
+		add_core_of = RHZ
 
 		1939.1.1 = {
 			buildings = {
