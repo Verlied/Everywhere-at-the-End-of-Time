@@ -1,0 +1,14 @@
+state={
+	id=807
+	name="STATE_807"
+	history = {
+		owner = HAB
+		add_core_of = HAB
+	}
+	provinces={
+		9347 
+	}
+	manpower=60000
+	buildings_max_level_factor=1.000
+	state_category = large_city
+}
