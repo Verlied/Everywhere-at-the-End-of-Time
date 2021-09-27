@@ -1,4 +1,12 @@
 ﻿l_english:
+ #Rhine zone
+ RHZ_democratic:0 "The Rhine zone"
+ RHZ_democratic_DEF:0 "The Rhine zone"
+ RHZ_democratic_ADJ:0 "Rhine"
+ RHZ:0 "Rhine"
+ RHZ_DEF:0 "German"
+ RHZ_ADJ:0 "Rhine"
+
  #The Free City of Hamburg
  HAB_democratic:0 "The Free City of Hamburg"
  HAB_democratic_DEF:0 "The Free City of Hamburg"
