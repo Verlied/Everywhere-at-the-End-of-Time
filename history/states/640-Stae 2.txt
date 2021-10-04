@@ -10,13 +10,13 @@ state={
 	}
 	history={
 		add_core_of = BRM
-		owner = RAJ
+		owner = BRM
 		buildings = {
 			infrastructure = 3
 			air_base = 1
 		}
 		victory_points = {
-			1492 1 
+			1492 1 	
 		}
 		victory_points = {
 			4425 1 

@@ -371,7 +371,7 @@ CRO = {
 	color_ui = rgb { 230 255 122 }
 }
 
-PRC = {
+CON = {
 	color = rgb { 245 12 55 }
 	color_ui = rgb { 178 34 60 }
 }
@@ -527,8 +527,8 @@ DDR = {
     color_ui = rgb { 150 180 120 }
 }
 KOR = {
-	color = rgb { 255  240  195 }
-	color_ui = rgb { 255 248 229 }	
+	color = rgb { 24  45  245 }
+	color_ui = rgb { 24 45 245 }	
 }
 ISR = {
 	color = rgb { 152  130  191 }
@@ -765,4 +765,12 @@ WUR = {
 SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }
+}
+IND = {
+	color = rgb { 230 130 30 }
+	color_ui = rgb { 230 130 30 }
+}
+NVI = {
+	color = rgb { 239 22 16 }
+	color_ui = rgb { 239 22 16 }
 }

@@ -7,7 +7,8 @@ state={
 
 	history={
 		add_core_of = VIN
-		owner = FRA
+		owner = VIN
+		add_core_of = NVI		
 		victory_points = {
 			4401 3 
 		}
@@ -17,7 +18,6 @@ state={
 			air_base = 2
 			4401 = {
 				naval_base = 4
-
 			}
 
 		}

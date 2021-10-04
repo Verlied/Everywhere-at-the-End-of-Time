@@ -1,5 +1,5 @@
 
-state={
+state{
 	id=614
 	name="STATE_614" # Hebei
 	manpower = 18434900
@@ -12,10 +12,6 @@ state={
 		add_core_of = PRC
 		buildings = {
 			infrastructure = 4
-		}
-
-		1938.10.25 = {
-			controller = JAP
 		}
 	}
 

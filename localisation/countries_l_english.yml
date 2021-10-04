@@ -39,6 +39,25 @@
  PRI_DEF:0 "Italy"
  PRI_ADJ:0 "Italian"
 
+ #India
+ IND_democratic:0 "Republic of India"
+ IND_democratic_DEF:0 "the Republic of India"
+ IND_democratic_ADJ:0 "India"
+ IND_communism:0 "People's Republic of India"
+ IND_communism_DEF:0 "the People's Republic of India"
+ IND_communism_ADJ:0 "India"
+ IND:0 "India"
+ IND_DEF:0 "India"
+ IND_ADJ:0 "Indian"
+
+ #North Vietnam
+ NVI_communism:0 "Democratic Republic of North Vietnam"
+ NVI_communism_DEF:0 "the Democratic Republic of North Vietnam"
+ NVI_communism_ADJ:0 "North Vietnam"
+ NVI:0 "Vietnam"
+ NVI_DEF:0 "Vietnam"
+ NVI_ADJ:0 "Vietnamense"
+ 
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"
  GER_democratic:0 "German Republic"

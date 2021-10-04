@@ -47,10 +47,10 @@ if = {
 
 set_convoys = 25
 set_popularities = {
-	democratic = 10
-	fascism = 10
-	communism = 30
-	neutrality = 50
+	democratic = 75
+	fascism = 5
+	communism = 20
+	neutrality = 0
 }
 
 create_country_leader = {
@@ -124,7 +124,6 @@ if = {
 	}
 }
 
-set_cosmetic_tag = INS_HOL # Netherlands East Indies
 
 1939.1.1 = {
 	add_political_power = 1198

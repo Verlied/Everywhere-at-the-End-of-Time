@@ -96,18 +96,16 @@ if = {
 	add_ideas = MTG_naval_treaty_adherent
 }
 
-1939.1.1 = {
+1962.1.1 = {
 
 	add_political_power = 1199
 	
 	#adding ministers
 	add_ideas = {
 		USA_robert_taft
-		carl_spaatz
 		jimmy_doolittle
 		army_ordnance_department
 		general_electric
-		robert_goddard
 		USA_war_department
 		USA_intervention_in_europe
 		#laws
@@ -119,22 +117,6 @@ if = {
 	remove_ideas = {
 		great_depression
 	}
-
-	#focuses
-	unlock_national_focus = USA_continue_the_new_deal
-	unlock_national_focus = USA_wpa
-	complete_national_focus = USA_war_department
-	complete_national_focus = USA_air_war_plans_division
-	complete_national_focus = USA_war_plans_division
-	complete_national_focus = USA_agricultural_adjustment_act
-	complete_national_focus = USA_neutrality_act
-	complete_national_focus = USA_intervention_in_asia	
-	complete_national_focus = USA_war_plan_orange
-	complete_national_focus = USA_intervention_in_europe		
-	complete_national_focus = USA_war_plan_black
-	complete_national_focus = USA_strategic_bombing
- 	complete_national_focus = USA_fair_labour_standards_act
-
 	set_global_flag = earhart_disappeared
 	oob = "USA_1939"
 	if = {
@@ -144,7 +126,10 @@ if = {
 			set_naval_oob = "USA_1939_naval_legacy"
 		}
 	}
-
+create_faction = "Pacific Defense Treaty Organization"
+USA = { add_to_faction = CAN }
+USA = { add_to_faction = AST }
+USA = { add_to_faction = NZL }	
 	set_technology = {
 		fighter1 = 1
 		cv_fighter1 = 1

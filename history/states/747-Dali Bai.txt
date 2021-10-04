@@ -8,8 +8,7 @@ state={
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
-		owner = YUN
-		add_core_of = YUN
+		owner = CHI
 		add_core_of = CHI
 		add_core_of = PRC
 		victory_points = {
@@ -18,22 +17,5 @@ state={
 		buildings = {
 			infrastructure = 3
 		}
-		1938.10.25 = {
-			if = {
-				limit = {
-					NOT = {
-						has_dlc = "Waking the Tiger" 
-					}
-
-				}
-				CHI = {
-					transfer_state = PREV
-
-				}
-
-			}
-
-		}
-
 	}
 }
