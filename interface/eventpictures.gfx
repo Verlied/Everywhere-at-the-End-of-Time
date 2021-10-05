@@ -1,0 +1,8 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ENG_Gulf_Declares_Republic"
+		texturefile = "gfx/event_pictures/GFX_ENG_Gulf_Declares_Republic.dds"
+	}
+	
+}
