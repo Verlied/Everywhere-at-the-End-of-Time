@@ -1,0 +1,13 @@
+state={
+	id=816
+	name="STATE_816"
+	history = {
+		owner = KAT
+		add_core_of = KAT
+	}
+	provinces={
+		191 1516 1817 1929 1968 4515 12795 12907 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

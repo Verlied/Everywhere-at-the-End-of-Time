@@ -1,0 +1,13 @@
+state={
+	id=811
+	name="STATE_811"
+	history = {
+		owner = DRC
+		add_core_of = DRC
+	}
+	provinces={
+		988 7219 7931 10883 10951 12741 12824 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

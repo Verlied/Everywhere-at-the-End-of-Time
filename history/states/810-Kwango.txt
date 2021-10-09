@@ -1,0 +1,17 @@
+
+state={
+	id=810
+	name="STATE_810"
+
+	history={
+		owner = DRC
+		add_core_of = DRC
+
+	}
+
+	provinces={
+		4128 7219 7716 10025 10071 12775 12896 12945 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=813
+	name="STATE_813"
+	history = {
+		owner = FRC
+		add_core_of = FRC
+	}
+	provinces={
+		1950 2034 2073 2154 6027 8048 11934 12783 12808 12847 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
