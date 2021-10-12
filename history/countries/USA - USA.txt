@@ -9,6 +9,8 @@ if = {
 	}
 }
 
+load_focus_tree = USA_start
+
 set_research_slots = 4
 set_stability = 0.75
 set_war_support = 0
@@ -233,12 +235,13 @@ set_popularities = {
 }
 
 add_ideas = {
-	undisturbed_isolation
-	great_depression
-	disarmed_nation
-	free_trade
-	home_of_the_free
 }
+
+complete_national_focus = USA_JFK_presidency
+complete_national_focus = USA_mending_the_scars
+complete_national_focus = USA_act_first_think_later
+complete_national_focus = USA_review_the_foreign_policy
+complete_national_focus = USA_the_giant_wakes
 
 1939.1.1 = {
 	set_politics = {
