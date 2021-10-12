@@ -1,4 +1,93 @@
 ﻿l_english:
+
+#People's Republic of The Congo
+ PCO_fascism:0 "People's Republic of The Congo"
+ PCO_fascism_DEF:0 "People's Republic of The Congo"
+ PCO_fascism_ADJ:0 "Congolese"
+ PCO:0 "People's Republic of The Congo"
+ PCO_DEF:0 "People's Republic of The Congo"
+ PCO_ADJ:0 "Congolese"
+
+#Guerilla Territory
+ GUR_neutrality:0 "Guerilla Territory"
+ GUR_neutrality_DEF:0 "Guerilla Territory"
+ GUR_neutrality_ADJ:0 "Guerilla"
+ GUR:0 "Guerilla Territory"
+ GUR_DEF:0 "Guerilla Territory"
+ GUR_ADJ:0 "Guerilla"
+
+#Congolese Reconstruction Government
+ RGC_neutrality:0 "Congolese Reconstruction Government"
+ RGC_neutrality_DEF:0 "The Congolese Reconstruction Government"
+ RGC_neutrality_ADJ:0 "Congolese"
+ RGC:0 "Congolese Reconstruction Government"
+ RGC_DEF:0 "The Congolese Reconstruction Government"
+ RGC_ADJ:0 "Congolese"
+
+#Second Congo Free State
+ SCF_fascism:0 "Second Congo Free State"
+ SCF_fascism_DEF:0 "The Second Congo Free State"
+ FPB_fascism_ADJ:0 "Belgian"
+ SCF:0 "The Second Congo Free State"
+ SCF_DEF:0 "The Second Congo Free State"
+ SCF_ADJ:0 "Belgian"
+
+#Force Publique
+ FPB_fascism:0 "Force Publique"
+ FPB_fascism_DEF:0 "The Force Publique"
+ FPB_fascism_ADJ:0 "Force Publique"
+ FPB:0 "Force Publique"
+ FPB_DEF:0 "Force Publique"
+ FPB_ADJ:0 "Force Publique"
+
+#Kwilu
+ KWL_communism:0 "Kwilu"
+ KWL_communism_DEF:0 "Kwilu"
+ KWL_communism_ADJ:0 "Kwilu"
+ KWL:0 "Kwilu"
+ KWL_DEF:0 "Kwilu"
+ KWL_ADJ:0 "Kwilan"
+
+#Simba Uprising
+ SMB_communism:0 "The Simba Uprising"
+ SMB_communism_DEF:0 "The Simba Uprising"
+ SMB_communism_ADJ:0 "Maoist"
+ SMB:0 "The Simba Uprising"
+ SMB_DEF:0 "The Simba Uprising"
+ SMB_ADJ:0 "Maoist"
+
+#South Kasai
+ SKS_democratic:0 "South Kasai"
+ SKS_democratic_DEF:0 "South Kasai"
+ SKS_democratic_ADJ:0 "Baluban"
+ SKS:0 "South Kasai"
+ SKS_DEF:0 "South Kasai"
+ SKS_ADJ:0 "Baluban"
+ 
+#Katanga
+ FRC_neutrality:0 "State of Katanga"
+ FRC_neutrality_DEF:0 "The State of Katanga"
+ FRC_neutrality_ADJ:0 "Katangan"
+ FRC:0 "Katanga"
+ FRC_DEF:0 "Katangan"
+ FRC_ADJ:0 "Katangan"
+
+#Free Republic of The Congo
+ FRC_communism:0 "Free Republic of Congo"
+ FRC_communism_DEF:0 "The Free Republic of Congo"
+ FRC_communism_ADJ:0 "Congolese"
+ FRC:0 "Congo-Leopoldsville"
+ FRC_DEF:0 "Congolese"
+ FRC_ADJ:0 "Congolese"
+
+ #Democratic Republic of Congo
+ DRC_fascism:0 "Democratic Republic of Congo"
+ DRC_fascism_DEF:0 "The Democratic Republic of Congo"
+ DRC_fascism_ADJ:0 "Congolese"
+ DRC:0 "Congo-Stanleyville"
+ DRC_DEF:0 "Congolese"
+ DRC_ADJ:0 "Congolese"
+
  #Rhine zone
  RHZ_democratic:0 "The Rhine zone"
  RHZ_democratic_DEF:0 "The Rhine zone"
