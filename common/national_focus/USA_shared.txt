@@ -1,0 +1,438 @@
+﻿## Starting Focus Tree ##
+
+shared_focus = {
+	id = USA_JFK_presidency
+	icon = GFX_USA_JFK_presidency
+	complete_national_focus
+	cost = 5.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 0
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_mending_the_scars
+	icon = GFX_USA_mending_the_scars
+	cost = 2.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 1
+	prerequisite = { focus = USA_JFK_presidency }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_act_first_think_later
+	icon = GFX_USA_act_first_think_later
+	cost = 2.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 2
+	prerequisite = { focus = USA_mending_the_scars }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_breaking_point
+	icon = GFX_USA_the_breaking_point
+	cost = 2.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 3
+	prerequisite = { focus = USA_act_first_think_later }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_speech
+	icon = GFX_USA_the_speech
+	cost = 2.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 4
+	prerequisite = { focus = USA_the_breaking_point }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_land_of_the_free
+	icon = GFX_USA_land_of_the_free
+	cost = 2.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 5
+	y = 4
+	prerequisite = { focus = USA_the_speech }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_civil_rights_act
+	icon = GFX_USA_the_civil_rights_act
+	cost = 5.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 3
+	y = 5
+	prerequisite = { focus = USA_land_of_the_free }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_veto_the_act
+	icon = GFX_USA_veto_the_act
+	cost = 5.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 7
+	y = 5
+	prerequisite = { focus = USA_land_of_the_free }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_review_the_foreign_policy
+	icon = GFX_USA_review_the_foreign_policy
+	cost = 5.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 13
+	y = 2
+	prerequisite = { focus = USA_mending_the_scars }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_giant_wakes
+	icon = GFX_USA_the_giant_wakes
+	cost = 5.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 16
+	y = 3
+	prerequisite = { focus = USA_review_the_foreign_policy }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_german_situation
+	icon = GFX_USA_the_german_situation
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 14
+	y = 4
+	prerequisite = { focus = USA_the_giant_wakes }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_start_the_hamburg_confrence
+	icon = GFX_USA_start_the_hamburg_confrence
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 14
+	y = 5
+	prerequisite = { focus = USA_the_german_situation }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_assure_hannover
+	icon = GFX_USA_assure_hannover
+	mutually_exclusive = { focus = USA_remain_neutral }
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 13
+	y = 6
+	prerequisite = { focus = USA_start_the_hamburg_confrence }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_remain_neutral
+	icon = GFX_USA_remain_neutral
+	cost = 3.00
+	mutually_exclusive = { focus = USA_assure_hannover }
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 15
+	y = 6
+	prerequisite = { focus = USA_start_the_hamburg_confrence }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_fate_of_hamburg
+	icon = GFX_USA_the_fate_of_hamburg
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 14
+	y = 7
+	prerequisite = { focus = USA_assure_hannover focus = USA_remain_neutral }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_frenemies
+	icon = GFX_USA_frenemies
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 14
+	y = 8
+	prerequisite = { focus = USA_the_fate_of_hamburg }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_true_enemy
+	icon = GFX_USA_the_true_enemy
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 16
+	y = 9
+	prerequisite = { focus = USA_frenemies focus = USA_the_land_of_the_rising_sun }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_look_to_the_east
+	icon = GFX_USA_look_to_the_east
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 18
+	y = 4
+	prerequisite = { focus = USA_the_giant_wakes }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_potential_in_india
+	icon = GFX_USA_potential_in_india
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 17
+	y = 5
+	prerequisite = { focus = USA_look_to_the_east }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_gateway_to_the_middle_east
+	icon = GFX_USA_gateway_to_the_middle_east
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 17
+	y = 5
+	prerequisite = { focus = USA_potential_in_india }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_gateway_to_the_middle_east
+	icon = GFX_USA_gateway_to_the_middle_east
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 17
+	y = 6
+	prerequisite = { focus = USA_potential_in_india }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_relations_with_persia
+	icon = GFX_USA_relations_with_persia
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 17
+	y = 7
+	prerequisite = { focus = USA_gateway_to_the_middle_east }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_meet_with_the_old_man
+	icon = GFX_USA_meet_with_the_old_man
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 19
+	y = 5
+	prerequisite = { focus = USA_look_to_the_east }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_contact_south_vietnam
+	icon = GFX_USA_contact_south_vietnam
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 19
+	y = 6
+	prerequisite = { focus = USA_meet_with_the_old_man }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_good_friends
+	icon = GFX_USA_good_friends
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 19
+	y = 7
+	prerequisite = { focus = USA_contact_south_vietnam }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_land_of_the_rising_sun
+	icon = GFX_USA_the_land_of_the_rising_sun
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 18
+	y = 8
+	prerequisite = { focus = USA_good_friends focus = USA_relations_with_persia }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_imbrace_isolation
+	icon = GFX_USA_imbrace_isolation
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 10
+	y = 3
+	prerequisite = { focus = USA_review_the_foreign_policy }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_cut_back_military_spending
+	icon = GFX_USA_cut_back_military_spending
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 10
+	y = 4
+	prerequisite = { focus = USA_imbrace_isolation }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_mistake_that_led_us_here
+	icon = USA_the_mistake_that_led_us_here
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 10
+	y = 5
+	prerequisite = { focus = USA_cut_back_military_spending }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_disband_the_PDT
+	icon = USA_disband_the_PDT
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 10
+	y = 6
+	prerequisite = { focus = USA_the_mistake_that_led_us_here }
+	completion_reward = {
+	}
+}
+shared_focus = {
+	id = USA_the_eagle_soars_alone
+	icon = USA_USA_the_eagle_soars_alone
+	cost = 3.00
+	available_if_capitulated = no
+	ai_will_do = {
+		factor = 1
+	}
+	x = 10
+	y = 7
+	prerequisite = { focus = USA_disband_the_PDT }
+	completion_reward = {
+	}
+}
