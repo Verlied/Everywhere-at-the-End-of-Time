@@ -1,0 +1,124 @@
+ideas = {
+
+#United Kingdom Starting Spirits
+    country = {
+        ENG_fading_empire = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				NOT ={
+					has_government = communism
+				}
+				NOT = {
+					any_other_country = {
+						original_tag = ENG
+						has_government = democratic 
+						NOT = {
+							tag = ROOT
+						}
+					}
+				}
+			}
+
+			picture = GFX_idea_ENG_fading_empire
+			
+			modifier = {
+				stability_factor = -0.03			
+			}
+		}
+
+        ENG_nation_in_fire = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				NOT ={
+					has_government = communism
+				}
+				NOT = {
+					any_other_country = {
+						original_tag = ENG
+						has_government = democratic 
+						NOT = {
+							tag = ROOT
+						}
+					}
+				}
+			}
+
+			picture = GFX_idea_ENG_nation_in_fire
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.05	
+                political_power_gain = -0.03			
+			}
+		}
+
+        ENG_elizabeth_ii = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				NOT ={
+					has_government = communism
+				}
+				NOT = {
+					any_other_country = {
+						original_tag = ENG
+						has_government = democratic 
+						NOT = {
+							tag = ROOT
+						}
+					}
+				}
+			}
+
+			picture = GFX_idea_ENG_elizabeth_ii
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.03			
+			}
+		}	
+
+		ENG_ulster_nationalism = {
+			
+			allowed = {
+				original_tag = ENG
+			}
+
+			allowed_civil_war = {
+				NOT ={
+					has_government = communism
+				}
+				NOT = {
+					any_other_country = {
+						original_tag = ENG
+						has_government = democratic 
+						NOT = {
+							tag = ROOT
+						}
+					}
+				}
+			}
+
+			picture = GFX_idea_ENG_ulster_nationalism
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.03			
+			}
+		}	
+	}
+}

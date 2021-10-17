@@ -1,0 +1,19 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_idea_ENG_fading_empire"
+		texturefile = "gfx/interface/ideas/ENG/idea_ENG_fading_empire.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ENG_ulster_nationalism"
+		texturefile = "gfx/interface/ideas/ENG/idea_ENG_ulster_nationalism.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ENG_nation_in_fire"
+		texturefile = "gfx/interface/ideas/ENG/idea_ENG_nation_in_flames.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ENG_elizabeth_ii"
+		texturefile = "gfx/interface/ideas/ENG/idea_ENG_Queen_Elizabeth_II.dds"
+	}
+}
