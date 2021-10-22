@@ -1,30 +1,14 @@
-﻿capital = 126
+capital = 295
 
-#oob = ""
+oob = "COG_1936"
 
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
-	infantry_weapons1 = 1
-	tech_recon = 1
-	tech_support = 1		
-	tech_engineers = 1
 	tech_mountaineers = 1
-	gw_artillery = 1
-	interwar_antiair = 1
-	early_fighter = 1
-	early_bomber = 1
-	naval_bomber1 = 1
 }
 
-add_ideas = {	
-		ENG_fading_empire
-		ENG_ulster_nationalism
-		ENG_nation_in_fire
-		ENG_elizabeth_ii
-	}
-
-set_convoys = 20
+set_convoys = 5
 
 1939.1.1 = {
 	#generic focuses
@@ -54,30 +38,53 @@ set_convoys = 20
 		basic_machine_tools = 1
 		improved_machine_tools = 1
 		advanced_machine_tools = 1
+		fuel_silos = 1
 		construction1 = 1
 		construction2 = 1
 		dispersed_industry = 1
 		dispersed_industry2 = 1
 	}
 }
+
+# A colony of Italy in 1939.  However, if independent it would have the same as its 1936 politics
 set_politics = {
-	ruling_party = conservative_democracy
+	ruling_party = neutrality
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	liberal_democracy = 21
-	social_democracy = 34
-	conservative_democracy = 45
+	neutrality = 100
 }
 
 create_country_leader = {
-	name = "Harold Macmillan"
-	desc = "POLITICS_HAROLD_MACMILLAN_DESC"
-	picture = "gfx/leaders/ENG/Portrait_ENG_Harold_Macmillian.png"
+	
+	name = "François Tolenga"
+	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
 	expire = "1965.1.1"
-	ideology = conservative_democracy_ideology
+	ideology = despotism
 	traits = {
+		compassionate_gentleman
+	}
+}
+create_country_leader = {
+	
+	name = "Lumumba Lomendja"
+	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_1.dds"
+	expire = "1965.1.1"
+	ideology = marxism
+	traits = {
+		silent_workhorse
+	}
+}
+
+create_country_leader = {
+	
+	name = "David Manera"
+	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_Land_3.dds"
+	expire = "1965.1.1"
+	ideology = fascism_ideology
+	traits = {
+		
 	}
 }
