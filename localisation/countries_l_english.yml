@@ -1,11 +1,4 @@
 ﻿l_english:
-#Hessen Administration
- HAD_fascism:0 "Hessen Administration"
- HAD_fascism_DEF:0 "Hessen Administration"
- HAD_fascism_ADJ:0 "German"
- HAD:0 "Hessen Administration"
- HAD_DEF:0 "Hessen Administration"
- HAD_ADJ:0 "German"
 
 #People's Republic of The Congo
  PCO_fascism:0 "People's Republic of The Congo"

@@ -26,7 +26,8 @@ ideas = {
 			picture = GFX_idea_ENG_fading_empire
 			
 			modifier = {
-				stability_factor = -0.03			
+				stability_factor = -0.03	
+				consumer_goods_factor = 0.05		
 			}
 		}
 
@@ -57,7 +58,11 @@ ideas = {
 			
 			modifier = {
 				stability_factor = -0.05	
-                political_power_gain = -0.03			
+                political_power_gain = -0.03	
+				trade_laws_cost_factor = 0.5
+				mobilization_laws_cost_factor = 0.5	
+				economy_cost_factor = 0.5	
+				ploitical_advisor_cost_factor = 0.5
 			}
 		}
 
