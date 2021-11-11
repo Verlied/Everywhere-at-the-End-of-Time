@@ -18,7 +18,6 @@ if = { #DLC
 	#BUL_democratic
 	#BUL_fascism
 	#BUL_neutrality
-	set_cosmetic_tag = BUL_neutrality
 
 	#IDEAS SETUP
 	add_ideas = { #DLC
@@ -485,12 +484,11 @@ set_technology = { #VANILLA & DLC
 	
 	#POLIICS
 	set_popularities = { #VANILLA & DLC
-		democratic = 5
-		fascism = 35
-		neutrality = 60
+		marxist_leninism = 86
+		ultra_statist_communism = 14
 	}
 	set_politics = { #VANILLA & DLC
-		ruling_party = neutrality
+		ruling_party = marxist_leninism
 		last_election = "1938.3.27"
 		election_frequency = 48
 		elections_allowed = no

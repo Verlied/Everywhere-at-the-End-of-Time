@@ -2,16 +2,17 @@
 state={
 	id=273
 	name="STATE_273" # Libyan Desert
-	manpower = 42633
+	manpower=42633
 	
-	state_category = wasteland
+	state_category=wasteland
 	impassable = yes
 
 	history={
-		owner = ITA
+		owner=UAR
 		buildings = {
-			infrastructure = 0
+			infrastructure=0
 		}
+		add_core_of = UAR
 		add_core_of = LBA
 	}
 

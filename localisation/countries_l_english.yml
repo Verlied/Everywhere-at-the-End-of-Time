@@ -146,6 +146,14 @@
  NVI:0 "Vietnam"
  NVI_DEF:0 "Vietnam"
  NVI_ADJ:0 "Vietnamense"
+
+ #United Arab Republic
+ UAR_libretarian_socialism:0 "United Arab Republic"
+ UAR_libretarian_socialism_DEF:0 "the United Arab Republic"
+ UAR_libretarian_socialism_ADJ:0 "United Arab Republic"
+ UAR:0 "United Arab Republic"
+ UAR_DEF:0 "United Arab Republic"
+ UAR_ADJ:0 "Arab"
  
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"

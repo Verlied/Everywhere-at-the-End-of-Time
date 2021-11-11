@@ -117,57 +117,43 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = liberal_democracy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 
 }
 set_popularities = {
-	democratic = 30
-	fascism = 10
-	communism = 60
+	fascism = 2
+	authoritarian_democracy = 12
+	conservative_democracy = 32
+	liberal_democracy = 54
 }
 
 add_ideas = {
 }
 
+create_country_leader = {
+	name = "Georg Diererichs"
+	desc = ""
+	picture = "gfx/leaders/HAN/Portrait_HAN_Georg_Diererichs.png"
+	expire = "1965.1.1"
+	ideology = liberal_democracy_ideology
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Theodor Blank"
+	desc = ""
+	picture = "gfx/leaders/HAN/Portrait_HAN_Thoedor_Blank.png"
+	expire = "1965.1.1"
+	ideology = conservative_democracy_ideology
+	traits = {
+	}
+}
 
 
-#create_country_leader = {
-#	name = "Dennis Fredauer"
-#	desc = ""
-#	picture = "Portrait_Germany_Konrad_Adenauer.dds"
-#	expire = "1965.1.1"
-#	ideology = conservatism
-#	traits = {
-#	}
-#}
-#
 
-#create_country_leader = {
-#	name = "Otto Wels"
-#	desc = "POLITICS_OTTO_WELS_DESC"
-#	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1939.1.16"
-#	ideology = socialism
-#	traits = {
-#		exiled
-#		union_man
-#	}
-#}
-#
-#create_country_leader = {
-#	name = "Ernst Thälmann"
-#	desc = "POLITICS_ERNST_THALMANN_DESC"
-#	picture = "Portrait_Germany_Adolf_Hitler.dds"
-#	expire = "1956.1.1"
-#	ideology = stalinism
-#	traits = {
-#		assassination_survivor
-#		stalins_puppet
-#		political_prisoner
-#	}
-#}
+
 
 

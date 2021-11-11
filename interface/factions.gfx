@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_PDT_faction_icon"
+		textureFile = "/gfx/interface/icons/factions/PDT_faction_icon.dds"
+	}
+}

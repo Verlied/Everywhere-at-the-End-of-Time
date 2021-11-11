@@ -4,19 +4,20 @@ state={
 	provinces={
 		12029 
 	}
-	manpower = 234379
+	manpower=234379
 	
-	state_category = enclave
+	state_category=enclave
 
 	history= {
-		owner = FRA
+		owner=TUR
 		add_core_of = TUR
 		add_core_of = SYR
+		add_core_of = UAR
 		victory_points = {
 			12029 1
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure=2
 		}
 
 		1938.9.30 = {

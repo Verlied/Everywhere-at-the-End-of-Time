@@ -4,6 +4,8 @@ state={
 	history = {
 		owner = HAB
 		add_core_of = HAB
+		add_core_of = HAN
+		add_core_of = SHL
 	}
 	provinces={
 		9347 

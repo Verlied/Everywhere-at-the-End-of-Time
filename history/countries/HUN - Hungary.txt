@@ -232,15 +232,15 @@ create_country_leader = {
 	}
 
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = marxist_leninism
 		last_election = "1939.5.29"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 	set_popularities = {
-		democratic = 27
-		fascism = 70
-		communism = 3
+		liberal_democracy = 27
+		marxist_leninism = 70
+		authoritarian_democracy = 3
 	}
 }
 

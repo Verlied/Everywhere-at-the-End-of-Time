@@ -3,7 +3,6 @@ ideologies = {
 	liberal_democracy = {
 	
 		types = {
-		
 			liberal_democracy_ideology = {
 			}
 		}
