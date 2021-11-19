@@ -105,34 +105,32 @@ if = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = marxist_leninism
 	last_election = "1936.1.1"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 20
-	fascism = 30
-	communism = 20
-	neutrality = 30
+	marxist_leninism = 79
+	ultra_statist_communism = 31
 }
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = marxist_leninism
 		last_election = "1939.1.1"
 		election_frequency = 36
-		elections_allowed = yes
+		elections_allowed = no
 	}
 }
 set_stability = 0.6
 
 create_country_leader = {
-	name = "Draza Mihailovic"
-	desc = ""
-	picture = "gfx/leaders/Europe/portrait_europe_generic_land_19.dds"
+	name = "Aleksandar Rankovic"
+	desc = "POLITICS_ALEKSANDAR_RANKOVIC_DESC"
+	picture = "gfx/leaders/YUG/Portrait_YUG_Aleksandar_Rankovic.png"
 	expire = "1965.1.1"
-	ideology = conservatism
+	ideology = marxist_leninism_ideology
 	traits = {
 		#
 	}

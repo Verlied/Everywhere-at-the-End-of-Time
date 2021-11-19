@@ -18,6 +18,11 @@ set_technology = {
 }
 
 add_ideas = {	
+	FRA_a_hopeful_nation
+	FRA_algerian_war
+	FRA_second_battle_of_france
+	FRA_the_misreable_tweleve
+	FRA_the_two_titans
 	}
 
 set_convoys = 20

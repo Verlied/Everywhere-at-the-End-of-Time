@@ -422,20 +422,20 @@ guiTypes = {
 		}
 		iconType = {
 			name = "leader"
-			position = { x = 10 y = 90 }
+			position = { x = 10 y = 65 }
 			spriteType = "GFX_leader_unknown"
 		}
 		
 		iconType = {
 			name = "leader_frame2"
 			spriteType = "GFX_pol_leader_frame"
-			position = { x = 7 y = 80 }		
+			position = { x = 8 y = 50 }		
 			alwaystransparent = yes
 		}
 
 		instantTextboxType = {
 			name = "leader_name"
-			position = { x = 16 y = 308 }
+			position = { x = 16 y = 278 }
 			font = "hoi_18mbs"
 			text = "leader_name"
 			maxWidth = 155

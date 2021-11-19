@@ -16,4 +16,24 @@ spriteTypes = {
 		name = "GFX_idea_ENG_elizabeth_ii"
 		texturefile = "gfx/interface/ideas/ENG/idea_ENG_Queen_Elizabeth_II.dds"
 	}
+		spriteType = {
+		name = "GFX_idea_FRA_algerian_war"
+		texturefile = "gfx/interface/ideas/FRA/idea_FRA_algerian_war.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_FRA_second_battle_of_france"
+		texturefile = "gfx/interface/ideas/FRA/idea_FRA_second_battle_of_france.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_FRA_a_hopeful_nation"
+		texturefile = "gfx/interface/ideas/FRA/idea_FRA_a_hopeful_nation.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_FRA_the_misreable_tweleve"
+		texturefile = "gfx/interface/ideas/FRA/idea_FRA_the_misreable_tweleve.dds"
+	}
+		spriteType = {
+		name = "GFX_idea_FRA_the_two_titans"
+		texturefile = "gfx/interface/ideas/FRA/idea_FRA_the_two_titans.dds"
+	}
 }
