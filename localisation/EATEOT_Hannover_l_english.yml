@@ -1,0 +1,36 @@
+﻿l_english:
+
+  ####################
+  #  Nation Spirits  #               
+  ####################
+
+  ##################
+  #  Leader Descs  #
+  ##################
+
+  ###################
+  #  Country Names  #
+  ###################
+
+HAN_liberal_democracy:0 "Hanover"
+HAN_liberal_democracy_ADJ:0 "Hanoverian"
+HAN_liberal_democracy_DEF:0 "Hanover"
+
+HAN_authoritarian_democracy:0 "Emergency Hanoverian Goverment"
+HAN_authoritarian_democracy_ADJ:0 "Hanoverian"
+HAN_authoritarian_democracy_DEF:0 "the Emergency Hanoverian Goverment"
+
+HAN_conservative_democracy:0 "Hanover"
+HAN_conservative_democracy_ADJ:0 "Hanoverian"
+HAN_conservative_democracy_DEF:0 "Hanover"
+
+HAN_social_democracy:0 "State of Hanover"
+HAN_social_democracy_ADJ:0 "Hanoverian"
+HAN_social_democracy_DEF:0 "the State of Hanover"
+
+  #################
+  #  Party Names  #
+  #################
+
+  
+

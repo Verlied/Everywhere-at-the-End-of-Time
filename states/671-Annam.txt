@@ -1,0 +1,38 @@
+
+state={
+	id=671
+	name="STATE_671"
+	manpower = 11528000
+	
+	state_category = town
+	
+	resources={
+		chromium=6 # was: 8
+		tungsten=27 # was: 38
+	}
+
+
+	history={
+		add_core_of = VIN
+		add_core_of = NVI		
+		owner = NVI
+		victory_points = {
+			4075 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+			1185 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1073 1157 1185 4075 4119 4397 4529 7015 7093 7280 7518 9948 9988 10016 10075 10103 10129 11909 11936 12008 12048 12065 12075 12297 12319 
+	}
+}

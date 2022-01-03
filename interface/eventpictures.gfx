@@ -1,0 +1,11 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ENG_Gulf_Declares_Republic"
+		texturefile = "gfx/event_pictures/GFX_ENG_Gulf_Declares_Republic.dds"
+	}
+	spriteType = {
+		name = "GFX_french_riots"
+		texturefile = "gfx/event_pictures/report_event_french_riots.dds"
+	}
+}

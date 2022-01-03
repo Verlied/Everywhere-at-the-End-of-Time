@@ -1,0 +1,12 @@
+﻿focus_tree = {
+	id = USA_start
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = USA
+		}
+	}
+	default = no
+	shared_focus = USA_JFK_presidency
+}

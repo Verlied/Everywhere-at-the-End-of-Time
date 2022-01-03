@@ -1,0 +1,48 @@
+﻿l_english:
+
+  ####################
+  #  Nation Spirits  #               
+  ####################
+
+ ENG_fading_empire:0 "Rebelious Colonies"
+ ENG_fading_empire_desc:0 "The British Empire has existed for centuries now however the final straw has come. Ever since the revolution in the Thirteen colonies the empire has been unstable, ripe with warlords and independence movements. The 20th century was no different, we have lost grasp of our empire with several colonies leaving the Pax Britannica in the past years and it looks likes we have no time to save our empire, the sun might have to set after all."
+ ENG_ulster_nationalism:0 "The Troubles"
+ ENG_ulster_nationalism_desc:0 "Ever since the independence of Southern Ireland the region know as "Ulster" has been under constant threat or several Irish unification paramilitary groups, however tensions are at an all time high in the area. We suspect of a large string of terrorist attacks in the north we just don't know when, but it will only be a matter of time until the match strikes."
+ ENG_nation_in_fire:0 "A Nation in Flames"
+ ENG_nation_in_fire_desc:0 "Ever since the end of WW2 the British government has been unpopular. The tactics of Neville Chamberlain during the Second World War has exposed our scars to the world showing us as only incompetent in the face of German might. The government is slowly but surely rebuilding their trust in the people however one nail will put the coffin to rest."
+ ENG_elizabeth_ii:0 "God Save the Queen!"
+ ENG_elizabeth_ii_desc:0 "Elizabeth the II was not expected to be monarch... After the unexpected death of her father George VI in 1952 she has been one of the most competent monarchs Britain has seen in decades. She has saw through some of the darkest times in British history and stood resilient, she has seen the almost collapse of our empire and the struggles that lead to the collapse of NATO. God save the Queen!"
+
+  ##################
+  #  Leader Descs  #
+  ##################
+
+POLITICS_HAROLD_MACMILLAN_DESC:0 "After being immobilized in WW1 Harold Macmillan had become a broken man. He believed that Britain had done many things wrong so he tried to fix the wounds of the war he ran for parliament in 1924 eventually losing his seat in 29 and regaining it in 1931, he spoke out against the high rate of unemployment and opposed the appeasement policy passed by Chamberlain. During the second world war Harold Macmillan rose through the ranks of the British Government. After the war he became minister of finance and served as Foreign Secretary and Chancellor of The Exchequer under Anthony Eden. After the Suez Crisis, one of the main causes of the collapse of N.A.T.O, Eden resigned and Harold Macmillan succeeded him in becoming prime minister of Britain."
+
+  ###################
+  #  Country Names  #
+  ###################
+
+ENG_conservative_democracy:0 "United Kingdom"
+ENG_conservative_democracy_ADJ:0 "British"
+ENG_conservative_democracy_DEF:0 "the United Kingdom"
+
+  #################
+  #  Party Names  #
+  #################
+
+ENG_conservative_democracy_party:0 "CP - Traditionalists"
+ENG_conservative_democracy_party_long:0 "Conservative Party - Traditionalists"
+ENG_authoritarian_democracy_party:0 "CP - Unionists"
+ENG_authoritarian_democracy_party_long:0 "Conservative Party - Unionists"
+
+ENG_social_democracy_party:0 "LP - Reformists"
+ENG_social_democracy_party_long:0 " The Labour Party - Reformists"
+ENG_libretarian_socialism_party:0 "LP - Progressivists"
+ENG_libretarian_socialism_party_long:0 "Labour Party - Progressivists"
+ENG_marxist_lenism_party:0 "LP - Radicals"
+ENG_marxist_lenism_party_long:0 "Labour Party - Radicals"
+
+ENG_liberal_democracy_party:0 "LIB - Whigs"
+ENG_liberal_democracy_party_long:0 "Liberal Party - Whigs"
+

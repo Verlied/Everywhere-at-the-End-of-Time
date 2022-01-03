@@ -1,0 +1,14 @@
+state={
+	id=811
+	name="STATE_811"
+	history = {
+		owner = YUG
+		add_core_of = YUG
+	}
+	provinces={
+		3868 6889 11816 
+	}
+	manpower=34534
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

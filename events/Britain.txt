@@ -1,0 +1,22 @@
+﻿add_namespace = britain 
+
+# The Gulf Declares Independence
+country_event = {
+	id = britain.1
+	title = britain.1.t
+	desc = britain.1.d
+	picture = GFX_report_arab_soldiers
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = britain.1.a	#Not The Oil...
+		ai_chance = { factor = 100 }
+		news_event = news.1
+		UAE = {
+			transfer_state = 658
+			transfer_state = 656
+			transfer_state = 765
+		}
+	}
+}

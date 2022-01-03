@@ -1,0 +1,14 @@
+state={
+	id=815
+	name="STATE_815"
+	history = {
+		owner = CRO
+		add_core_of = CRO
+	}
+	provinces={
+		6614 6619 9586 
+	}
+	manpower=453453
+	buildings_max_level_factor=1.000
+	state_category = rural
+}
