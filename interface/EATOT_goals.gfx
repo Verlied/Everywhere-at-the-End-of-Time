@@ -1,7 +1,0 @@
-spriteTypes = {	
-
-	SpriteType = {
-	name = "GFX_USA_the_civil_rights_act"
-	texturefile = "gfx/interface/goals/Focus_USA_Civil_Rights_Act.png"			
-	}	
-}
