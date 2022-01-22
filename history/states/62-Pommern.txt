@@ -11,12 +11,12 @@ state={
 		victory_points = {
 			9388 1
 		}
-		owner=SOP
+		owner=PRE
 		buildings = {
 			infrastructure=6
 			fuel_silo=1
 		}
-		add_core_of = SOP
+		add_core_of = PRE
 
 		1939.1.1 = {
 			buildings = {

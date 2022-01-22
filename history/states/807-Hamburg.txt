@@ -2,8 +2,7 @@ state={
 	id=807
 	name="STATE_807"
 	history = {
-		owner = HAB
-		add_core_of = HAB
+		owner = SHL
 		add_core_of = HAN
 		add_core_of = SHL
 	}

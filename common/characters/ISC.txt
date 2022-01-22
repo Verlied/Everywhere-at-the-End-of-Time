@@ -1,0 +1,15 @@
+characters={
+	ISC_serb_lover={
+		name=ISC_serb_lover
+		portraits={
+			civilian={
+				large="gfx/leaders/YUG/Portrait_YUG_Ante_Pavelić"
+			}
+		}
+		country_leader={
+			ideology=national_socialism_ideology
+			expire="1960.1.1.1"
+			id=-1
+		}
+	}
+}

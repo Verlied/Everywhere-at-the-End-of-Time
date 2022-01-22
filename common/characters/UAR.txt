@@ -1,0 +1,15 @@
+characters={
+	UAR_nassar={
+		name=UAR_nassar
+		portraits={
+			civilian={
+				large="gfx/leaders/UAR/Portrait_UAR_Gamal_Abdel_Nasser.png"
+			}
+		}
+		country_leader={
+			ideology=libretarian_socialism_ideology
+			expire="1960.1.1.1"
+			id=-1
+		}
+	}
+}

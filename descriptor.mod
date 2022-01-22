@@ -11,3 +11,4 @@ tags={
 }
 name="Everywhere At The End of Time"
 supported_version="1.11.4"
+replace_path = "history/states"
