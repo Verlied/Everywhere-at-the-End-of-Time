@@ -12,3 +12,4 @@ tags={
 name="Everywhere At The End of Time"
 replace_path = "history/states"
 supported_version="1.11.4"
+path="mod/Everywhere-at-the-End-of-Time"
